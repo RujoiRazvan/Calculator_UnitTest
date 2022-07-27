@@ -1,0 +1,15 @@
+N:\Cursuri Career Start@Siemens\Testare\Tema 1 - Calculator\Calculator\bin\Debug\Calculator.exe.config
+N:\Cursuri Career Start@Siemens\Testare\Tema 1 - Calculator\Calculator\bin\Debug\Calculator.exe
+N:\Cursuri Career Start@Siemens\Testare\Tema 1 - Calculator\Calculator\bin\Debug\Calculator.pdb
+N:\Cursuri Career Start@Siemens\Testare\Tema 1 - Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+N:\Cursuri Career Start@Siemens\Testare\Tema 1 - Calculator\Calculator\obj\Debug\Calculator.exe
+N:\Cursuri Career Start@Siemens\Testare\Tema 1 - Calculator\Calculator\obj\Debug\Calculator.pdb
+N:\Cursuri Career Start@Siemens\Testare\Tema 1 - Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+G:\Cursuri Career Start@Siemens\Testare\Tema 1 - Calculator\Calculator\bin\Debug\Calculator.exe.config
+G:\Cursuri Career Start@Siemens\Testare\Tema 1 - Calculator\Calculator\bin\Debug\Calculator.exe
+G:\Cursuri Career Start@Siemens\Testare\Tema 1 - Calculator\Calculator\bin\Debug\Calculator.pdb
+G:\Cursuri Career Start@Siemens\Testare\Tema 1 - Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+G:\Cursuri Career Start@Siemens\Testare\Tema 1 - Calculator\Calculator\obj\Debug\Calculator.exe
+G:\Cursuri Career Start@Siemens\Testare\Tema 1 - Calculator\Calculator\obj\Debug\Calculator.pdb
+G:\Cursuri Career Start@Siemens\Testare\Tema 1 - Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+G:\Cursuri Career Start@Siemens\Testare\Tema 1 - Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
